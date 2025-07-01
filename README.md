@@ -1,2 +1,2 @@
 # odin-recipes
-brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it.
+This project is about the basic fundamentals of HTML fromThe Odin Project, you can check my recipes !
